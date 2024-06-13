@@ -1,0 +1,5 @@
+aws_region          = "us-west-2"
+lambda_s3_key       = "my_deployment_package.zip"
+lambda_handler      = "lambda_function.lambda_handler"
+openai_api_key      = ""
+openai_model        = ""
